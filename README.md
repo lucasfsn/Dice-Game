@@ -1,3 +1,3 @@
 # Dice-Game
 
-<img src="dicegame.png" alt="Dice Game"/>
+![Dice Game](./images/dicegame.png)
